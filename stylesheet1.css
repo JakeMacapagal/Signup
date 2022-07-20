@@ -58,8 +58,12 @@ body{
           May want to center these
         */
         text-align: center;
+        padding: 10px 10px;
        
     
+      }
+      .form-wrap h1{
+        padding-top: 20px;
       }
      
 
