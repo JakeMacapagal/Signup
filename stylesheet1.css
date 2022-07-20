@@ -58,10 +58,12 @@ body{
           May want to center these
         */
         text-align: center;
-        padding-top: 15px;
+       
     
       }
-
+      .form-wrap p{
+        padding-top: 15px;
+      }
 
 
       .form-wrap .form-group {
