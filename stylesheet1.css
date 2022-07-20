@@ -7,7 +7,7 @@ body{
     
 }
 
-<style>
+
       * {
         /* 
         -May want to add "border-box for "box-sizing so padding does not affect width
@@ -113,11 +113,7 @@ body{
         background-color: #37a08e;
       }
 
-      .form-wrap .bottom-text {
-        /* 
-          Bottom text is smaller
-        */
-      }
+      
 
       footer {
         /* 
@@ -128,14 +124,8 @@ body{
        
       }
 
-      footer a {
-        /* 
-          Footer link color is #49c1a2
-        */
-    
-    
-    }
+
 
     
-    </style>
+    
 
